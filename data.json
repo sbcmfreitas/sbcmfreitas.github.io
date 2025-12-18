@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Big Sea",
+    "ibu": 55,
+    "abv": 5.6,
+    "description": "Post-punk, pre-apocalyptic, suitably themed...",
+    "image_url": "https://sbcmfreitas.github.io/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Stone IPA",
+    "ibu": 40,
+    "abv": 3.8,
+    "description": "A beer for the people, by the people...",
+    "image_url": "https://sbcmfreitas.github.io/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Milk Stout Nitro",
+    "ibu": 45,
+    "abv": 4.2,
+    "description": "The Physic beer...",
+    "image_url": "https://sbcmfreitas.github.io/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Milk Stout Penut",
+    "ibu": 42,
+    "abv": 2.4,
+    "description": "Anarchism Alchemist",
+    "image_url": "https://sbcmfreitas.github.io/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Left Hand",
+    "ibu": 55,
+    "abv": 6.8,
+    "description": "A rich and robust stout with flavors of coffee and chocolate.",
+    "image_url": "https://sbcmfreitas.github.io/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Oharas",
+    "ibu": 30,
+    "abv": 4.5,
+    "description": "A crisp and refreshing ale with hints of citrus and floral notes.",
+    "image_url": "https://sbcmfreitas.github.io/6.png"
+  },
+  {
+    "id": 7,
+    "name": "Death Disco",
+    "ibu": 70,
+    "abv": 7.2,
+    "description": "A bold and hop-forward IPA bursting with tropical fruit flavors.",
+    "image_url": "https://sbcmfreitas.github.io/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Jai Alai",
+    "ibu": 40,
+    "abv": 5.3,
+    "description": "A light and refreshing saison with a hint of peppery spice.",
+    "image_url": "https://sbcmfreitas.github.io/8.png"
+  },
+  {
+    "id": 9,
+    "name": "Sierra Nevada",
+    "ibu": 35,
+    "abv": 6,
+    "description": "An amber ale aged in oak barrels, imparting notes of vanilla and caramel.",
+    "image_url": "https://sbcmfreitas.github.io/9.png"
+  },
+  {
+    "id": 10,
+    "name": "Flip",
+    "ibu": 40,
+    "abv": 5.5,
+    "description": "A hazy and juicy pale ale with aromas of tropical fruits and a soft mouthfeel.",
+    "image_url": "https://sbcmfreitas.github.io/10.png"
+  },
+  {
+    "id": 11,
+    "name": "High Hops",
+    "ibu": 35,
+    "abv": 8,
+    "description": "A classic Belgian tripel with complex flavors of spice, fruit, and malt.",
+    "image_url": "https://sbcmfreitas.github.io/11.png"
+  },
+  {
+    "id": 12,
+    "name": "Wild Craft",
+    "ibu": 45,
+    "abv": 5.2,
+    "description": "A single hop smash beer showcasing the bright and citrusy flavors of Citra hops.",
+    "image_url": "https://sbcmfreitas.github.io/12.png"
+  },
+  {
+    "id": 13,
+    "name": "Hop Adventure",
+    "ibu": 25,
+    "abv": 4.8,
+    "description": "A smooth and malty Irish red ale with a touch of sweetness.",
+    "image_url": "https://sbcmfreitas.github.io/13.png"
+  },
+  {
+    "id": 14,
+    "name": "Elvis Juice",
+    "ibu": 40,
+    "abv": 6.5,
+    "description": "A rich and decadent porter with flavors of dark chocolate and roasted coffee.",
+    "image_url": "https://sbcmfreitas.github.io/14.png"
+  },
+  {
+    "id": 15,
+    "name": "Ipa",
+    "ibu": 20,
+    "abv": 4,
+    "description": "A tart and refreshing gose brewed with tropical fruits and sea salt.",
+    "image_url": "https://sbcmfreitas.github.io/15.png"
+  },
+  {
+    "id": 16,
+    "name": "Mosaic Session",
+    "ibu": 30,
+    "abv": 4.2,
+    "description": "A sessionable pale ale showcasing the vibrant and fruity flavors of Mosaic hops.",
+    "image_url": "https://sbcmfreitas.github.io/16.png"
+  },
+  {
+    "id": 17,
+    "name": "Imperial Stout",
+    "ibu": 70,
+    "abv": 10,
+    "description": "A bold and intense imperial stout with notes of dark chocolate and espresso.",
+    "image_url": "https://sbcmfreitas.github.io/17.png"
+  },
+  {
+    "id": 18,
+    "name": "Moesaic Session",
+    "ibu": 25,
+    "abv": 5,
+    "description": "A refreshing wheat beer brewed with fresh raspberries for a hint of tartness.",
+    "image_url": "https://sbcmfreitas.github.io/18.png"
+  },
+  {
+    "id": 19,
+    "name": "BBN 11",
+    "ibu": 35,
+    "abv": 5.3,
+    "description": "A smooth and creamy ale with flavors of caramel and vanilla.",
+    "image_url": "https://sbcmfreitas.github.io/19.png"
+  },
+  {
+    "id": 20,
+    "name": "Matiné",
+    "ibu": 40,
+    "abv": 5,
+    "description": "A pale ale brewed with Pacific hops for a bright and citrusy flavor profile.",
+    "image_url": "https://sbcmfreitas.github.io/20.png"
+  },
+  {
+    "id": 21,
+    "name": "Mosaic",
+    "ibu": 15,
+    "abv": 4.2,
+    "description": "A sour and fruity gose brewed with tart cherries and a touch of sea salt.",
+    "image_url": "https://sbcmfreitas.github.io/21.png"
+  },
+  {
+    "id": 22,
+    "name": "Fumaconica",
+    "ibu": 35,
+    "abv": 4.8,
+    "description": "A crisp and clean pilsner with a slightly spicy hop character.",
+    "image_url": "https://sbcmfreitas.github.io/22.png"
+  },
+  {
+    "id": 23,
+    "name": "Brezza Como",
+    "ibu": 40,
+    "abv": 5.5,
+    "description": "A smooth and velvety stout brewed with oats for added creaminess.",
+    "image_url": "https://sbcmfreitas.github.io/23.png"
+  },
+  {
+    "id": 24,
+    "name": "Traçado",
+    "ibu": 30,
+    "abv": 4.7,
+    "description": "A wheat beer brewed with honey for a touch of sweetness and floral aroma.",
+    "image_url": "https://sbcmfreitas.github.io/24.png"
+  }
+]
